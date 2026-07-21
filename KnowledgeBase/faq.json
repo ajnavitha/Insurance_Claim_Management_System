@@ -1,0 +1,30 @@
+[
+  {
+    "question": "how do i submit a claim",
+    "answer": "Login as a customer, open Claims, click New Claim, fill in the details, upload the required documents and submit."
+  },
+  {
+    "question": "how do i login",
+    "answer": "Use your registered email and password on the Login page."
+  },
+  {
+    "question": "how do i register",
+    "answer": "Open the Register page, enter your personal details and create an account."
+  },
+  {
+    "question": "what documents are required",
+    "answer": "Upload supporting documents such as medical bills, accident reports or repair invoices depending on your claim."
+  },
+  {
+    "question": "what is pending claim",
+    "answer": "A pending claim is waiting for administrator review."
+  },
+  {
+    "question": "what is approved claim",
+    "answer": "An approved claim has been accepted and is ready for settlement."
+  },
+  {
+    "question": "what is rejected claim",
+    "answer": "A rejected claim did not meet the policy requirements or had incomplete information."
+  }
+]
